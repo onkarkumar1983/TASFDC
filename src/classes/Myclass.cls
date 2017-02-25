@@ -12,5 +12,7 @@ public with sharing class Myclass {
 		System.debug('Hello1123 DEV6');
 		System.debug('Hello1123 DEV7');
 		System.debug('Hello1123 DEV8');
+        System.debug('Hello11234');
+	    System.debug('Hello11234');
     }
 }

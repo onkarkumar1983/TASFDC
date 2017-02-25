@@ -8,6 +8,8 @@ public with sharing class MyFirstClass {
         System.debug('Hello Class');
         System.debug(1 +29);
         System.debug(1 +291);
+        System.debug(1 +29);
+
         
     }
 }
