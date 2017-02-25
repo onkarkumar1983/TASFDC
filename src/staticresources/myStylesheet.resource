@@ -42,4 +42,8 @@
             	background-color:white;
             }
             
+<<<<<<< HEAD
+>>>>>>> branch 'Develop' of https://github.com/onkarkumar1983/TASFDC.git
+=======
+>>>>>>> branch 'master' of https://github.com/onkarkumar1983/TASFDC.git
 >>>>>>> branch 'Develop' of https://github.com/onkarkumar1983/TASFDC.git

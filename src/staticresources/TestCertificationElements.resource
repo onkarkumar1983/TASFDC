@@ -142,4 +142,8 @@ ID,Name,Certification__c,Type__c
 345937,L_certElement18,2037,Lab
 345938,L_certElement19,2038,Lab
 345939,L_certElement20,2039,Lab
+<<<<<<< HEAD
+>>>>>>> branch 'Develop' of https://github.com/onkarkumar1983/TASFDC.git
+=======
+>>>>>>> branch 'master' of https://github.com/onkarkumar1983/TASFDC.git
 >>>>>>> branch 'Develop' of https://github.com/onkarkumar1983/TASFDC.git

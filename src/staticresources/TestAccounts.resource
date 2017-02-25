@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> branch 'Develop' of https://github.com/onkarkumar1983/TASFDC.git
 ID,Name,Status__c
 1001,SV_AccountA1,Active
 1002,SV_AccountA2,Active
@@ -123,4 +127,8 @@ ID,Name,Status__c
 1059,C_AccountCA59,Active
 1060,C_AccountCA60,Active
 1061,C_AccountCA61,Active
+<<<<<<< HEAD
 
+=======
+>>>>>>> branch 'master' of https://github.com/onkarkumar1983/TASFDC.git
+>>>>>>> branch 'Develop' of https://github.com/onkarkumar1983/TASFDC.git

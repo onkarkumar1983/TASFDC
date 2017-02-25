@@ -606,4 +606,8 @@ Course__c,ID,Status__c
 421,1530,Cancelled
 421,1531,Cancelled
 421,1532,Cancelled
+<<<<<<< HEAD
+>>>>>>> branch 'Develop' of https://github.com/onkarkumar1983/TASFDC.git
+=======
+>>>>>>> branch 'master' of https://github.com/onkarkumar1983/TASFDC.git
 >>>>>>> branch 'Develop' of https://github.com/onkarkumar1983/TASFDC.git
